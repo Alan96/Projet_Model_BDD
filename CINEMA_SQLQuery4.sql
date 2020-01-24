@@ -1,4 +1,4 @@
-Test 416516516151/56
+Test mol
   CREATE TABLE SCENARISTE (
      ID INT IDENTITY (1,1) NOT NULL,
      Nom varchar(100) NOT NULL, 
