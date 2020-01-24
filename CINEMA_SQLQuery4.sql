@@ -1,3 +1,4 @@
+Test 2
   CREATE TABLE SCENARISTE (
      ID INT IDENTITY (1,1) NOT NULL,
      Nom varchar(100) NOT NULL, 
